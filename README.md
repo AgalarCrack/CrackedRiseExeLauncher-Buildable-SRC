@@ -4,6 +4,8 @@
 + 1 - ozur dılerim
 + 2 - bida olmaz
 
+Bağırsaklarım dolu bok yok saol karnım tok.
+
 <div align="center">
 
 # [ Cracked Craft Rise Launcher (the exe one) ]
