@@ -1,5 +1,9 @@
 # zort
 
++ Eğer beni savciliga vereceksen
++ 1 - ozur dılerim
++ 2 - bida olmaz
+
 <div align="center">
 
 # [ Cracked Craft Rise Launcher (the exe one) ]
