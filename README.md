@@ -23,3 +23,6 @@
 
 + Open .sln file on visual studio and compile it.
 + Or just download the release, but it is really craftrise launcher so you dont need it lol
+
+<div align="center")
+![unnamed](https://user-images.githubusercontent.com/76044365/141655698-2b826883-c40d-441a-837c-6659933ef554.png)
